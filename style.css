@@ -1,0 +1,11 @@
+/* header > div {
+  font-size: 5vw !important;
+}
+header > p {
+  font-size: 7vw !important;
+} */
+
+.img {
+  object-fit: cover;
+  width: 50vw;
+}
